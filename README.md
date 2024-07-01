@@ -9,7 +9,7 @@ After installation a new menu and Panel is available under the `Plugins` panel i
 
 ## Usage
 The full user manual is included with the plugin, but you can also find it here:
-- [Styleswapper Help](./docs/help.md)
+- [Styleswapper Help](./docs/help-id.md)
 
 ## Support
 For bug reports, question and feature requests please [create an Issue](https://github.com/rxcle/styleswapper-support/issues)
