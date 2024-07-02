@@ -3,7 +3,7 @@
 Styleswapper is a productivity plugin for Adobe InDesign that enables you to create and quickly switch between design "themes" using text and object styles in your document. Themes can consist of any number and combinations of Paragraph, Character, Object, Table and Cell styles. These styles are created and managed using the familiar panels in InDesign.
 
 ## Installation
-Obtain and install **Styleswapper** via **Adobe Exchange**.
+Obtain and install [Styleswapper](https://exchange.adobe.com/apps/cc/faf1c020/styleswapper) via **Adobe Exchange**.
 
 After installation a new menu and Panel is available under the `Plugins` panel in InDesign.
 
